@@ -1,3 +1,4 @@
+# 2维-2维的线性OU系统
 import jax
 import jax.numpy as jnp
 from jax import grad, vmap, random, jacfwd
